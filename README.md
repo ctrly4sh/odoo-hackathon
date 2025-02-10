@@ -1,2 +1,1 @@
-# github-2
-test 
+# empty repo for odoo hackathon
